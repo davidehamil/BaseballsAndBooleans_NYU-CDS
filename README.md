@@ -1,2 +1,2 @@
-# Baseballs-Booleans-NYU-CDS-
+# Baseballs&Booleans_NYU-CDS
 A Term Project by NYU Data Science students to study predictive modeling for MLB pitching 
