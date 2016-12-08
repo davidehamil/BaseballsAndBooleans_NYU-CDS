@@ -1,0 +1,30 @@
+
+When we were indexing the pitch type, we use:
+
+	1 for FF
+	2 for SL
+	3 for FT
+	4 for CU
+	5 for CH
+	6 for SI
+	7 for FC
+	8 for KC
+	9 for NaN
+	0 for other types
+	
+
+When we were indexing the pitch result, we use:
+
+	1 for B
+	2 for X
+	3 for C
+	4 for F
+	0 for S
+
+
+When we were indexing the pitcher/batter's hand, we use:
+
+	1 for R
+	0 for L
+
+
